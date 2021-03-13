@@ -1,5 +1,3 @@
-### JN Bot
-
 # JN Bot è un bot per la moderazione creato dal developer Eight.
 
 Il bot ha la funzione di evitare il più possibile che qualunque persona riesca a infrangere qualsiasi delle regole riportate nel [JN Server](https://discord.gg/cD8m3XVnVM).
