@@ -1,0 +1,6 @@
+{
+    "prefix": "PREFIX",
+    "token": "TOKEN",
+    "API_KEY": "API_KEY",
+    "DISCOVERY_URL": "https://commentanalyzer.googleapis.com/$discovery/rest?version=v1alpha1"
+}
